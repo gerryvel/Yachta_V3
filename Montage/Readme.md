@@ -13,8 +13,8 @@
 Aus der Stückliste sind alle Teile aus Pos. 1 gedruckt und die Außenteile lackiert. 
 An dem Gehäuseober- und Unterteil [1.3, 1.4] muss mit der Gewindefeile (Steigung 1,5) das Gewinde ausgeräumt bzw. gesäubert werden, bis sich die beiden Teile gut zusammen- und auch wieder auseinander schrauben lassen. Vorm Lackieren zusammenschrauben, um das Gewinde sauber zu halten.
 
-In die Windfahne [1.1] wird innen zur Befestigung des Lagers im vorhandenem Loch M5 geschnitten. 
-Ebenso das Gewinde zum Einsetzen des Gewichtsausgleiches mit M6 schneiden.
+In die Windfahne [1.1] wird innen zur Befestigung der Fahne am Lager [2.1] im vorhandenem Loch M5 geschnitten. 
+Ebenso das Gewinde zum Einsetzen des Gewichtsausgleiches (Schraube [3.4] mit Rohr [5]) mit M6 schneiden.
 Die Gegengewichtsschraube [3.4] am Kopf verrunden.
 
 # Montage
