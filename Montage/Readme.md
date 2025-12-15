@@ -5,7 +5,7 @@
 - Lötbesteck
 - Satz Inbusschlüssel
 - Gewindeschneider M3, M5, M6
-- Bohrersatz
+- Bohrersatz 1-10mm 0,5er Abstufung
 - Feile, Schleifpapier
 
 # Vorbereitungen
@@ -20,9 +20,9 @@ Die Gegengewichtsschraube [3.4] am Kopf verrunden.
 # Montage
 ## Unterteil mit Windrad
 Jetzt kann man die Windlöffel [1.5] mit dem Löffelhalter [1.6] komplettieren. In den Magnethalter [1.8] die Magnete einkleben. Die Lager 1x 624 [2.2] und 1x 625 [2.1] in das Gehäuse-Unterteil einlegen, dazwischen das Abstandstück [1.7] positionieren. Die Schraube [3.3] in den Löffelhalter einführen und durch die Lager und das Abstandsstück durchfädeln, den vormontieren Magnethalter aufsetzen und mit der Mutter M5 [3.5] verschrauben. Eventuell mit einer Unterlegscheibe [3.6] richtige Abstände einstellen, damit das Windrad frei läuft.
-Aluminiumstange [4] einbauen, Loch für M3 Schraube [3.1] anzeichnen. Ausbauen, bohren, Gewinde M3 schneiden. Wieder einbauen und mit der Schraube M3 [3.1] sichern. Kabel [6] einfädeln, Mantel absetzen und Adern abisolieren.
-Leiterplatte einlegen und prüfen, ob der Abstand zu den Magneten passt, eventuell anpassen. 
-Mit Schraubensicherungslack sichern.
+Aluminiumstange [4] einbauen, Loch im Unterteil für M3 Schraube [3.1] anzeichnen. Alurohr wieder ausbauen, 2,5mm bohren, Gewinde M3 schneiden. Wieder einbauen und mit der Schraube M3 [3.1] sichern. Kabel [6] einfädeln, Mantel absetzen und Adern abisolieren.
+Leiterplatte einlegen und prüfen, ob der Abstand zu den Magneten des Magnethalters passt, eventuell anpassen. 
+Die M5 Mutter mit Schraubensicherungslack sichern.
 
 ## Oberteil mit Windfahne
 
