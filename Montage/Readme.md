@@ -15,7 +15,7 @@ An dem Gehäuseober- und Unterteil [1.3, 1.4] muss mit der Gewindefeile (Steigun
 
 In die Windfahne [1.1] wird innen zur Befestigung der Fahne am Lager [2.1] im vorhandenem Loch M5 geschnitten. 
 Ebenso das Gewinde zum Einsetzen des Gewichtsausgleiches (Schraube [3.4] mit Rohr [5]) mit M6 schneiden.
-Die Gegengewichtsschraube [3.4] am Kopf verrunden.
+Die Gegengewichtsschraube [3.4] mit dem VA-Rohrstück 10x2x28mm komplettieren.
 
 # Montage
 ## Unterteil mit Windrad
