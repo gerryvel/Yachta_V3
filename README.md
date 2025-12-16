@@ -43,10 +43,10 @@ The PCB is the same as Yachta V2.
  - 2.1  Lager 2x 625 (5x16x5 mm)
  - 2.2  Lager 1x 624 (4x13x5 mm)
 ### 3 Norm parts
- - 3.1  Inbus-Schraube VA 1x M3x10 (Befestigung Aluminiumrohr)
- - 3.2  Inbus-Schraube VA 1x M5x20 (Befestigung Lager Windfahne)
- - 3.3  Inbus-Schraube VA 1x M5x40 (Befestigung Löffellager)
- - 3.4  Inbus-Schraube VA 1x M6x40 (Gegengewicht Windfahne)
+ - 3.1  Inbus-Schraube VA 1x M3x10 Zylinderkopf (Befestigung Aluminiumrohr)
+ - 3.2  Inbus-Schraube VA 1x M5x20 Zylinderkopf (Befestigung Lager Windfahne)
+ - 3.3  Inbus-Schraube VA 1x M5x40 Zylinderkopf (Befestigung Löffellager)
+ - 3.4  Inbus-Schraube VA 1x M6x40 Linsenkopf (Gegengewicht Windfahne)
  - 3.5  1x Mutter VA M5 (Löffellager)
  - 3.6  2x Unterlegscheibe VA M5
 ### Special parts
