@@ -15,6 +15,7 @@ An dem Gehäuseober- und Unterteil [1.3, 1.4] muss mit der Gewindefeile (Steigun
 
 In die Windfahne [1.1] wird innen zur Befestigung der Fahne am Lager [2.1] im vorhandenem Loch M5 geschnitten. 
 Ebenso das Gewinde zum Einsetzen des Gewichtsausgleiches (Schraube [3.4] mit Rohr [5]) mit M6 schneiden.
+Die 4 Gewinde zur Befestigung der Leiterplatte mit M3 nachschneiden.
 Die Gegengewichtsschraube [3.4] mit dem VA-Rohrstück 10x2x28mm komplettieren. Man kann auch eine Zylinderkopfschraube vorn verrunden.
 
 # Montage
@@ -32,7 +33,7 @@ Im Gehäuse-Oberteil [1.3] das Lager 625 [2.1] einlegen und mit dem Gewindering 
 
 # Komplettieren
 
-Kabeladern an der Leiterplatte durchfädeln, Freilauf des Magnethalters beachten. Adern anlöten. O-Ring [7] einlegen und beide Schalen zusammenschrauben. Windfahne und Windrad bewegen und prüfen, ob die Magneten frei laufen und nicht an der Leiterplatte anschlagen. Halterbasis an der anderen Seite des Aluminiumrohrs anbauen, mit einer Schraube M3x10 sichern und Kabel durchfädeln.
+Kabeladern an der Leiterplatte durchfädeln, Freilauf des Magnethalters beachten. Adern anlöten. Leiterplatte mit 4x M3x7 Schrauben befestigen. O-Ring [7] einlegen und beide Schalen zusammenschrauben. Windfahne und Windrad bewegen und prüfen, ob die Magneten frei laufen und nicht an der Leiterplatte anschlagen. Halterbasis an der anderen Seite des Aluminiumrohrs anbauen, mit einer Schraube M3x10 sichern und Kabel durchfädeln.
 
 # Inbetriebnahme 
 
