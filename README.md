@@ -53,7 +53,7 @@ The PCB is the same as Yachta V2.
 ### Special parts
  - 4  Aluminiumrohr 10x1mm, 200mm
  - 5  VA-Rohr 10x2, ca. 30mm (für Windspitze)
- - 6  LiYY 2x0,5 mm² oder YSLY 2x0,75 mm² ca. 300mm
+ - 6  LiYY 2x0,5 mm² oder YSLY 2x0,5 mm² ca. 300mm
  - 7  O-Ring 70x1,8 
  - 8  Leiterplatte
  - 9  Magnete (4x 1,5x5 und 1x 5x5x5)
