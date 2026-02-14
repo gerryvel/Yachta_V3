@@ -52,7 +52,7 @@ The PCB is the same as Yachta V2.
  - 3.7. Inbus-Schraube VA 4x M3x7 Linsenkopf (Befestigung Leiterplatte)
 ### Special parts
  - 4  Aluminiumrohr 10x1mm, 200mm
- - 5  VA-Rohr 10x2, ca. 30mm (für Windspitze)
+ - 5  Distanzmutter rund A2 M 6x30 (für Windspitze)
  - 6  LiYY 2x0,5 mm² oder YSLY 2x0,5 mm² ca. 300mm
  - 7  O-Ring 70x1,8 
  - 8  Leiterplatte
