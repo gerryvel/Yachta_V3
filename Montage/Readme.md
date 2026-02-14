@@ -29,7 +29,7 @@ Die M5 Mutter mit Schraubensicherungslack sichern.
 
 ## Oberteil mit Windfahne
 
-Im Gehäuse-Oberteil [1.3] das Lager 625 [2.1] einlegen und mit dem Gewindering [1.2] festschrauben. Mit der Schraube M5x20 [3.3] die Windfahne befestigen. Jetzt die Gegengewichtsschraube mit dem VA-Rohr 10x2x30 [5] (genaue Länge durch ausbalancieren bestimmen) komplettieren, eindrehen und ausbalancieren. Eventuell mit einer Unterlegscheibe M5 den Abstand der Fahne zum Gehäuse-Oberteil einstellen. Schraube mit Lack sichern. Den Magneten 5x5x5 an den Schraubenkopf festkleben.
+Im Gehäuse-Oberteil [1.3] das Lager 625 [2.1] einlegen und mit dem Gewindering [1.2] festschrauben. Mit der Schraube M5x20 [3.3] die Windfahne befestigen. Jetzt die Gegengewichtsschraube mit der Distanzmutter rund A2 M 6x30 [5] (genaue Länge durch ausbalancieren bestimmen) komplettieren, eindrehen und ausbalancieren. Eventuell mit einer Unterlegscheibe M5 den Abstand der Fahne zum Gehäuse-Oberteil einstellen. Schraube mit Lack sichern. Den Magneten 5x5x5 an den Schraubenkopf festkleben.
 
 # Komplettieren
 
