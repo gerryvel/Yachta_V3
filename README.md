@@ -40,8 +40,8 @@ The PCB is the same as Yachta V2.
  - 1.8  Magnethalter
  - 1.9  Halterbasis
 ### 2 Bearings
- - 2.1  Lager 2x 625 (5x16x5 mm)
- - 2.2  Lager 1x 624 (4x13x5 mm)
+ - 2.1  Lager 2x 625 (5x16x5 mm SS2 HC 624 offen trocken Hybrid Keramik/Edelstahl)
+ - 2.2  Lager 1x 695 (5x13x4 mm SS2 HC 695 offen trocken Hybrid Keramik/Edelstahl)
 ### 3 Norm parts
  - 3.1  Inbus-Schraube VA 1x M3x10 Zylinderkopf (Befestigung Aluminiumrohr)
  - 3.2  Inbus-Schraube VA 1x M5x20 Zylinderkopf (Befestigung Lager Windfahne)
