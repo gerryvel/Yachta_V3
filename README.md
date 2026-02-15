@@ -63,3 +63,6 @@ The PCB is the same as Yachta V2.
 - 1.1 Change parts 3.4 and 5
 - 1.0 initial Version
 
+## Todo
+- Unterteil : Aufname Rohr 10x1 Winkel für Befestigungsloch korrigieren
+
