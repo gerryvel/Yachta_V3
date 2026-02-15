@@ -60,5 +60,6 @@ The PCB is the same as Yachta V2.
    
 ## Versions
 
+- 1.1 Change parts 3.4 and 5
 - 1.0 initial Version
 
