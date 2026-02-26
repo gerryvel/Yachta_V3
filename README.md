@@ -56,7 +56,7 @@ The PCB is the same as Yachta V2.
  - 6  LiYY 2x0,5 mm² oder YSLY 2x0,5 mm² ca. 300mm
  - 7  O-Ring 70x1,8 
  - 8  Leiterplatte
- - 9  Magnete (4x 1,5x5 und 1x 5x5x5)
+ - 9  Magnete: 4× Zylindermagnete Ø1,5 mm × 5 mm und 1× Würfelmagnet 5×5×5 mm
    
 ## Versions
 
