@@ -16,7 +16,7 @@ An dem Gehäuseober- und Unterteil [1.3, 1.4] muss mit der Gewindefeile (Steigun
 In die Windfahne [1.1] wird innen zur Befestigung der Fahne am Lager [2.1] im vorhandenem Loch M5 geschnitten. 
 Ebenso das Gewinde zum Einsetzen des Gewichtsausgleiches (Schraube [3.4] mit Rohr [5]) mit M6 schneiden.
 Die 4 Gewinde zur Befestigung der Leiterplatte mit M3 nachschneiden.
-Die Gegengewichtsschraube [3.4] mit dem VA-Rohrstück 10x2x28mm komplettieren. Man kann auch eine Zylinderkopfschraube vorn verrunden.
+Die Gegengewichtsschraube [3.4] mit der VA-Distanzmutter M6x30mm komplettieren. Vorher einseitig die Distanzmutter innen ansenken, damit diese bündigt an den Kopf der M6 Linsenkopfschraube passt.
 
 # Montage
 ## Unterteil mit Windrad
