@@ -20,7 +20,7 @@ This project is part of [OpenBoatProject](https://open-boat-projects.org/)
 
 ## Sensor Modul
 
-The PCB is the same as Yachta V2.
+The PCB is the same as Yachta V2. A complete system with NMEA2000 connection can be created with the NMEA2000_TPW sensor.
 
 ## Hardware
 
