@@ -11,7 +11,7 @@ This repository describes the installation of the "Yachta V3" wind sensor.
 
 ## Based on the work of
  
-The Yachta V3 is the Windsensor "Yachta" [@norbert-walter](https://github.com/norbert-walter/Windsensor_Yachta) and the modification from a french user in the www.segeln-forum.de .
+The Yachta V3 is the Windsensor "Yachta" [@norbert-walter](https://github.com/norbert-walter/Windsensor_Yachta) with the modification from a french user in the www.segeln-forum.de .
 You can use the following threads (in German):
 - https://www.segeln-forum.de/thread/67401-windsensor-diy/
 - https://www.segeln-forum.de/thread/83726-windsensor-yachta-probleml%C3%B6sungen/
