@@ -37,6 +37,7 @@ Kabeladern an der Leiterplatte durchfädeln, Freilauf des Magnethalters beachten
 
 # Inbetriebnahme 
 
-Die weitere Inbetriebnahme nach dem Handbuch des Yachta V2 vornehmen.
+Die weitere Inbetriebnahme nach dem Handbuch des Yachta V2 vornehmen. Siehe https://github.com/norbert-walter/Windsensor_Yachta.
+Zur Einbinung in den NMEA2000 Bus kann man den [TPW_Sensor](https://github.com/gerryvel/NMEA2000_TPW) benutzen.
 
 
