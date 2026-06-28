@@ -49,7 +49,7 @@ The PCB is the same as Yachta V2. A complete system with NMEA2000 connection can
  - 3.4  Inbus-Schraube VA 1x M6x40 Linsenkopf (Gegengewicht Windfahne)
  - 3.5  Mutter VA 1x M5 (Löffellager)
  - 3.6  Unterlegscheibe VA 2x M5
- - 3.7. Inbus-Schraube VA 4x M3x7 Linsenkopf (Befestigung Leiterplatte)
+ - 3.7  Inbus-Schraube VA 4x M3x7 Linsenkopf (Befestigung Leiterplatte)
 ### Special parts
  - 4  Aluminiumrohr 10x1mm, 200mm
  - 5  Distanzmutter rund A2 M 6x30 (Gewicht für Windspitze)
