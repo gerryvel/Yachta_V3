@@ -1,0 +1,1 @@
+Diese Variante erweitert das Unterteil durch eine verlänerte Führung des Haltestabs. Dies wird beim FDM-Druck Supports benötigen.
