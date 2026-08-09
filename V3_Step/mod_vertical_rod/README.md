@@ -1,0 +1,2 @@
+Diese Variante ersetzt das Unterteil durch eines mit einer Aufname für einen vertikalen Stab.
+Dies ist die Original-Variante des Designers, erfordert aber ein gebogenes Rohr(?) um eine Kollision mit dem Schaufelrad zu vermeiden.

@@ -39,6 +39,7 @@ The PCB is the same as Yachta V2. A complete system with NMEA2000 connection can
  - 1.7  Abstandsstück (zwischen Löffellager)
  - 1.8  Magnethalter
  - 1.9  Halterbasis
+ - 1.10 Unterlegscheibe 0,5mm (ggf. mehrfach als zusätzlichen Abstandshalter)
 ### 2 Bearings
  - 2.1  Lager 2x 625 (5x16x5 mm SS2 HC 624 offen trocken Hybrid Keramik/Edelstahl) [link](https://www.kugellager-express.de/keramik-hybrid-miniatur-kugellager-ss-hc-625-tn-offen-trocken-5x16x5-mm)
  - 2.2  Lager 1x 695 (5x13x4 mm SS2 HC 695 offen trocken Hybrid Keramik/Edelstahl) [link](https://www.kugellager-express.de/hybrid-keramik-edelstahl-miniatur-kugellager-ss2-hc-695-offen-tn-cn-trocken-5x13x4-mm)

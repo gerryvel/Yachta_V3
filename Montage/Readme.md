@@ -20,7 +20,7 @@ Die Gegengewichtsschraube [3.4] mit der VA-Distanzmutter M6x30mm [5] komplettier
 
 # Montage
 ## Unterteil mit Windrad
-Jetzt kann man die Windlöffel [1.5] mit dem Löffelhalter [1.6] komplettieren. In den Magnethalter [1.8] die 4 Magnete einkleben. Die Lager 1x 624 [2.2] und 1x 625 [2.1] in das Gehäuse-Unterteil einlegen, dazwischen das Abstandstück [1.7] positionieren. Die Schraube [3.3] in den Löffelhalter einführen und durch die Lager und das Abstandsstück durchfädeln, den vormontieren Magnethalter aufsetzen und mit der Mutter M5 [3.5] verschrauben. Eventuell mit einer Unterlegscheibe [3.6] richtige Abstände einstellen, damit das Windrad frei läuft.
+Jetzt kann man die Windlöffel [1.5] mit dem Löffelhalter [1.6] komplettieren. In den Magnethalter [1.8] die 4 Magnete einkleben. Die Lager 1x 624 [2.2] und 1x 625 [2.1] in das Gehäuse-Unterteil einlegen, dazwischen das Abstandstück [1.7] positionieren. Die Schraube [3.3] in den Löffelhalter einführen und durch die Lager und das Abstandsstück durchfädeln, darauf die gedruckte Unterlegscheibe 0,5mm und den vormontieren Magnethalter aufsetzen und mit der Mutter M5 [3.5] verschrauben. Eventuell mit einer Unterlegscheibe [3.6] richtige Abstände einstellen, damit das Windrad frei läuft.
 Auf beiden Seiten des Aluminiumrohres 10x1x200mm ist folgendes vorzubereiten:
 Aluminiumstange [4] einbauen, Loch im Unterteil bzw. Fuß für M3 Schraube [3.1] anzeichnen. Alurohr wieder ausbauen, 2,5mm bohren, Gewinde M3 schneiden. 
 Danach das Rohr einbauen und mit Schrauben M3 [3.1] beidseitig sichern. Kabel [6] einfädeln, Mantel absetzen und Adern abisolieren.
